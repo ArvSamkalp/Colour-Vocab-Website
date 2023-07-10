@@ -1,0 +1,61 @@
+body{
+    background-color: #F6BA6F;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image: url(../images/wall-background.jpg);
+    background-size: 1000px 1500px;   
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #D8D8D8;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: 100000;
+    border-radius: 30%;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+
+}
+h5{
+    font-family: 'Playfair Display', serif;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+div{
+    display: inline-block;
+    background-color:#ADE4DB;
+    /* background-color: transparent; */
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+/* #white{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+} */
+.colors-main{
+    background-color: #FFEBEB;
+    /* background-image: url(../images/wall-background.jpg); */
+    /* background-image: url(../images/canvas-background.jpg); */
+    /* background-image: url(../images/leaf-veins-image.jpg);
+    background-size: auto; */
+    /* background-image: url(../images/pebels-background-img.jpg); */
+    /* background-size: 1000px 1500px; */
+}
+#foot{
+    background-color: #6DA9E4;
+    display: block;
+    margin-block-end: 0em;
+    margin-block-start: 0em;
+}
